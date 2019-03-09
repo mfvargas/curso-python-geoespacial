@@ -6,3 +6,8 @@ Sitio web:
 
 ## Índice
 ---------
+
+## Introducción
+---------------
+
+[Python](https://www.python.org/) es un lenguaje de programación de propósito general que ha alcanzado una gran popularidad en los últimos años.
