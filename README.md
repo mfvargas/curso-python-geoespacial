@@ -4,3 +4,4 @@ Este es un curso introductorio al lenguaje de programación Python, con un énfa
 Sitio web:
 [https://mfvargas.github.io/curso-intro-python/](https://mfvargas.github.io/curso-intro-python/)
 
+## Índice
