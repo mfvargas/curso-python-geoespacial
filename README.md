@@ -5,3 +5,4 @@ Sitio web:
 [https://mfvargas.github.io/curso-intro-python/](https://mfvargas.github.io/curso-intro-python/)
 
 ## Índice
+---------
