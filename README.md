@@ -7,13 +7,13 @@ Sitio web:
 
 ## Índice
 ---------
-0. Introducción
-    1. Acerca de Python
+1. Introducción
+    1.1. Acerca de Python
 
-## 0. Introducción
+## 1. Introducción
 ---------------
 
-### Acerca de Python
+### 1.1. Acerca de Python
 | ![](img/python-logo.png) |
 |:---:|
 | Figura 1. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
