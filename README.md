@@ -50,7 +50,6 @@ Python ha tomado una gran importancia en el área del desarrollo de aplicaciones
 | [PyPI - the Python Package Index](https://pypi.org/) |
 
 ## Importancia del lenguaje Python
-| Sitio                                                         |
 | ------------------------------------------------------------- |
 | [InforWorld: Python’s popularity surges as a mainstay language](https://www.infoworld.com/article/3331603/pythons-popularity-surges-as-a-mainstay-language.html) |
 | [Stack Overflow: The Incredible Growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318) |
