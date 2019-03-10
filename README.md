@@ -8,12 +8,11 @@ Sitio web:
 ## Índice
 ---------
 [1. Introducción](https://github.com/mfvargas/curso-intro-python/blob/master/README.md#1-introducci%C3%B3n)
-    1. Acerca de Python
 
 ## 1. Introducción
----------------
+------------------
 
-### i. Acerca de Python
+### Acerca de Python
 | ![](img/python-logo.png) |
 |:---:|
 | Figura 1. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
