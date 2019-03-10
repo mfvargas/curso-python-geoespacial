@@ -7,7 +7,7 @@ Sitio web:
 
 ## Índice
 ---------
-1. Introducción
+[1. Introducción](https://github.com/mfvargas/curso-intro-python/blob/master/README.md#1-introducci%C3%B3n)
     1. Acerca de Python
 
 ## 1. Introducción
