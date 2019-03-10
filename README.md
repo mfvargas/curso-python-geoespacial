@@ -44,9 +44,7 @@ Python ha tomado una gran importancia en el área del desarrollo de aplicaciones
 
 # Recursos adicionales
 ## Información general sobre Python
-| Sitio oficial del lenguaje Python| [Python.org](https://www.python.org/) |
-| Índice de paquetes de Python | [PyPI - the Python Package Index](https://pypi.org/) |
-
-| Cobertura/uso                              | Peso                                                 |
-| ------------------------------------------ | ----------------------------------------------------:|
-| Sitio oficial del lenguaje Python          | [PyPI - the Python Package Index](https://pypi.org/) |
+| Sitio                                                         | Descripción                       |
+| ------------------------------------------------------------- | ---------------------------------:|
+| [Python.org](https://www.python.org/)                         | Sitio oficial del lenguaje Python |
+| [PyPI - the Python Package Index](https://pypi.org/)          | Índice de paquetes de Python      |
