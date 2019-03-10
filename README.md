@@ -7,7 +7,7 @@
 Este es un curso introductorio a la programación de aplicaciones geoespaciales en el lenguaje de programación Python.
 
 Sitio web:
-[https://mfvargas.github.io/curso-intro-python/](https://mfvargas.github.io/curso-python-geoespacial/)
+[https://mfvargas.github.io/curso-python-geoespacial/](https://mfvargas.github.io/curso-python-geoespacial/)
 
 ## Índice
 ---------
