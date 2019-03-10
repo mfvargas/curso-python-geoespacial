@@ -47,6 +47,6 @@ Python ha tomado una gran importancia en el área del desarrollo de aplicaciones
 | Sitio oficial del lenguaje Python| [Python.org](https://www.python.org/) |
 | Índice de paquetes de Python | [PyPI - the Python Package Index](https://pypi.org/) |
 
-| Cobertura/uso              | Peso |
-| -------------------------- | ----:|
-| Cobertura boscosa          | 1    |
+| Cobertura/uso                              | Peso                                                 |
+| ------------------------------------------ | ----------------------------------------------------:|
+| Sitio oficial del lenguaje Python          | [PyPI - the Python Package Index](https://pypi.org/) |
