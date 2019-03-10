@@ -1,18 +1,17 @@
-# Python
+# Programación de aplicaciones geoespaciales en Python
 --------
-Este es un curso introductorio al lenguaje de programación Python, con un énfasis en el procesamiento de datos geoespaciales.
+Este es un curso introductorio a la programación de aplicaciones geoespaciales en el lenguaje de programación Python.
 
 Sitio web:
 [https://mfvargas.github.io/curso-intro-python/](https://mfvargas.github.io/curso-intro-python/)
 
 ## Índice
 ---------
-[1. Introducción](https://github.com/mfvargas/curso-intro-python/blob/master/README.md#1-introducci%C3%B3n)
+[1. Acerca de Python](https://github.com/mfvargas/curso-intro-python/blob/master/README.md#1-introducci%C3%B3n)
 
-## 1. Introducción
+## 1. Acerca de Python
 ------------------
 
-### Acerca de Python
 | ![](img/python-logo.png) |
 |:---:|
 | Figura 1. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
