@@ -12,7 +12,7 @@ Sitio web:
 ## 1. Acerca de Python
 ------------------
 
-| ![](img/python-logo.png) |
+| ![](img/python-logo-master-v3-TM-flattened.png) |
 |:---:|
 | Figura 1. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
 
