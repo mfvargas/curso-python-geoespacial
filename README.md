@@ -28,9 +28,9 @@ En la actualidad, Python es ampliamente utilizado en enseñanza de la programaci
 Python fue creado por el programador holandés [Guido van Rossum](https://gvanrossum.github.io//), quién concibió el diseño original del lenguaje a finales de la década de 1980 y dio a conocer la primera versión en 1991. Van Rossum eligió el nombre del lenguaje en honor al grupo de comedia británico [Monty Python](https://es.wikipedia.org/wiki/Monty_Python) y su programa de televisión ["El circo volador de Monty Python" (_Monty Python's Flying Circus_)](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus).
 
 
-| ![](img/montypython.jpg) | ![](img/montypython.jpg) |
+| ![](img/Guido-portrait-2014.jpg) | ![](img/montypython.jpg) |
 |:---:|:---:|
-| Figura 3. El circo volador de Monty Python<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/) | Figura 3. El circo volador de Monty Python<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/)|
+| Figura 3. Guido van Rossum, creador de Python<br>Fuente: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guido-portrait-2014.jpg) | Figura 4. El circo volador de Monty Python<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/)|
 
 Python es un [lenguaje interpretado](https://es.wikipedia.org/wiki/Int%C3%A9rprete_(inform%C3%A1tica)) y [multiplataforma](https://es.wikipedia.org/wiki/Multiplataforma) que puede ejecutarse en los sistemas operativos más populares (ej. Microsoft Windows, macOS, Linux, Android). Ofrece un [sistema de tipos de datos](https://es.wikipedia.org/wiki/Tipado_din%C3%A1mico) dinámicos y [administración de memoria](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_memoria) automática. Además, soporta varios [paradigmas de programación](https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n), incluyendo [programación orientada a objetos](https://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos), [programación imperativa](https://es.wikipedia.org/wiki/Programaci%C3%B3n_imperativa), [programación funcional](https://es.wikipedia.org/wiki/Programaci%C3%B3n_funcional) y [programación procedimental](https://es.wikipedia.org/wiki/Programaci%C3%B3n_por_procedimientos).
 
