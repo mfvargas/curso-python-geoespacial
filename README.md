@@ -12,11 +12,11 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 
 ## 1. Acerca de Python
 ----------------------
-[Python](https://www.python.org/) es un lenguaje de programación de propósito general que ha alcanzado una [gran popularidad en los últimos años](https://www.infoworld.com/article/3331603/pythons-popularity-surges-as-a-mainstay-language.html). Fue declarado el lenguaje del año 2018 por el índice [Tiobe](https://www.tiobe.com/tiobe-index/) de popularidad de lenguajes de programación, debido al crecimiento de su uso en diversas áreas, entre las que destacan la [ciencia de datos](https://en.wikipedia.org/wiki/Data_science) y el [aprendizaje de máquinas](https://en.wikipedia.org/wiki/Machine_learning), además de otras como [pruebas de sistemas](https://en.wikipedia.org/wiki/System_testing), [desarrollo web](https://en.wikipedia.org/wiki/Web_development), [scripting](https://en.wikipedia.org/wiki/Scripting_language) y [visualización de datos](https://en.wikipedia.org/wiki/Data_visualization), entre muchas. Esta popularidad es respaldada por otras fuentes como el índice [PYPL](http://pypl.github.io/PYPL.html) y la comunidad de programadores [Stack Overflow](https://stackoverflow.com/). Esta última lo considera el [lenguaje de programación de mayor crecimiento en los países de alto ingreso](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318), como se muestra en la figura 2.
+[Python](https://www.python.org/) es un lenguaje de programación de propósito general que ha alcanzado una [gran popularidad en los últimos años](https://www.infoworld.com/article/3331603/pythons-popularity-surges-as-a-mainstay-language.html). Fue declarado el lenguaje del año 2018 por el índice [Tiobe](https://www.tiobe.com/tiobe-index/) de popularidad de lenguajes de programación, debido al crecimiento de su uso en diversas áreas, entre las que destacan la [ciencia de datos](https://en.wikipedia.org/wiki/Data_science) y el [aprendizaje de máquinas](https://en.wikipedia.org/wiki/Machine_learning), además de otras como [pruebas de sistemas](https://en.wikipedia.org/wiki/System_testing), [desarrollo web](https://en.wikipedia.org/wiki/Web_development), [scripting](https://en.wikipedia.org/wiki/Scripting_language) y [visualización de datos](https://en.wikipedia.org/wiki/Data_visualization), entre muchas. Esta popularidad es respaldada por otras fuentes como el índice [PYPL](http://pypl.github.io/PYPL.html) y la comunidad de programadores [Stack Overflow](https://stackoverflow.com/). Esta última lo considera el [lenguaje de programación de mayor crecimiento en los países de alto ingreso](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318), como se muestra en la figura 1.
 
 | ![](img/growth_major_languages.png) |
 |:---:|
-| Figura 2. Crecimiento de los principales lenguajes de programación en los países de alto ingreso<br>Fuente: [Stack Overflow](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318)|
+| Figura 1. Crecimiento de los principales lenguajes de programación en los países de alto ingreso<br>Fuente: [Stack Overflow](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318)|
 
 En la actualidad, Python es ampliamente utilizado en enseñanza de la programación y es el [lenguaje más empleado en cursos introductorios de programación de las principales universidades de Estados Unidos](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext) debido, entre otras razones, a que sus programas son fáciles de leer y requieren menos líneas de código que otros lenguajes de amplia difusión, tales como [Java](http://oracle.com/java/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) o [C++](https://isocpp.org/).
 
@@ -24,7 +24,7 @@ Python fue creado por el programador holandés [Guido van Rossum](https://gvanro
 
 | ![](img/Guido-portrait-2014.jpg) | ![](img/montypython.jpg) |
 |:---:|:---:|
-| Figura 3. Guido van Rossum, creador de Python<br>Fuente: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guido-portrait-2014.jpg) | Figura 4. El circo volador de Monty Python<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/)|
+| Figura 2. Guido van Rossum, creador de Python<br>Fuente: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guido-portrait-2014.jpg) | Figura 3. El circo volador de Monty Python<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/)|
 
 ### Principales características del lenguaje
 * Es [interpretado](https://en.wikipedia.org/wiki/Interpreter_(computing)): las instrucciones se traducen una por una a [lenguaje máquina](https://en.wikipedia.org/wiki/Machine_code), a diferencia de los [lenguajes compilados](https://en.wikipedia.org/wiki/Compiler), que traducen simultáneamente una unidad completa (ej. un programa o una biblioteca). Los lenguajes interpretados tienden a ser más lentos que los compilados, pero también son más flexibles como entornos de desarrollo y depuración.
@@ -44,6 +44,12 @@ Python ha tomado una gran importancia en el área del desarrollo de aplicaciones
 
 # Recursos adicionales
 ## Información general sobre Python
+| Sitio                                                         | Descripción                       |
+| ---------------------------------------------------- | ---------------------------------:|
+| [Python.org](https://www.python.org/)                | Sitio oficial del lenguaje Python |
+| [PyPI - the Python Package Index](https://pypi.org/) | Índice de paquetes de Python      |
+
+## Importancia del lenguaje Python
 | Sitio                                                         | Descripción                       |
 | ------------------------------------------------------------- | ---------------------------------:|
 | [Python.org](https://www.python.org/)                         | Sitio oficial del lenguaje Python |
