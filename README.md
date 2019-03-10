@@ -2,7 +2,7 @@
 ------------------------------------------------------
 | ![](img/OrteliusWorldMap1570.jpg) | ![](img/python-logo-master-v3-TM-flattened.png) |
 |:---:|:---:|
-| Figura 1. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)| Figura 2. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
+| Figura 1. Atlas _Theatrum Orbis Terrarum_<br>Fuente: [Wikipedia](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum)| Figura 2. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
 
 Este es un curso introductorio a la programación de aplicaciones geoespaciales en el lenguaje de programación Python.
 
