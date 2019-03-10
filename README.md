@@ -44,9 +44,9 @@ Python ha tomado una gran importancia en el área del desarrollo de aplicaciones
 
 # Recursos adicionales
 ## Información general sobre Python
-Sitio oficial del lenguaje Python:
+<tr><td>Sitio oficial del lenguaje Python:</td><td>[Python.org](https://www.python.org/)</td></tr>
 
-[Python.org](https://www.python.org/)
+
 
 Índice de paquetes de Python:
 
