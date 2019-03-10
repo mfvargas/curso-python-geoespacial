@@ -8,7 +8,7 @@ Sitio web:
 ## Índice
 ---------
 0. Introducción
-⋅⋅1. Acerca de Python
+0.1. Acerca de Python
 
 ## Introducción
 ---------------
