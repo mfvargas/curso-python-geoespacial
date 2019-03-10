@@ -2,7 +2,7 @@
 ------------------------------------------------------
 | ![](img/OrteliusWorldMap1570.jpg) | ![](img/python-logo-master-v3-TM-flattened.png) |
 |:---:|:---:|
-| Figura 1. Atlas _Theatrum Orbis Terrarum_<br>Fuente: [Wikipedia](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum)| Figura 2. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
+| Atlas _Theatrum Orbis Terrarum_ de Gilles Coppens de Diest (1570)<br>Fuente: [Wikipedia](https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum)| Figura 2. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
 
 Este es un curso introductorio a la programación de aplicaciones geoespaciales en el lenguaje de programación Python.
 
@@ -23,7 +23,7 @@ Sitio web:
 
 En la actualidad, Python es ampliamente utilizado en enseñanza de la programación y es el [lenguaje más empleado en cursos introductorios de programación de las principales universidades de Estados Unidos](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext) debido, entre otras razones, a que sus programas son fáciles de leer y requieren menos líneas de código que otros lenguajes de amplia difusión, tales como [Java](http://oracle.com/java/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) o [C++](https://isocpp.org/).
 
-Python fue creado por el programador holandés [Guido van Rossum](https://gvanrossum.github.io//), quién concibió el diseño original del lenguaje a finales de la década de 1980 y dio a conocer la primera versión en 1991. Van Rossum eligió el nombre del lenguaje en honor al grupo de comedia británico [Monty Python](https://es.wikipedia.org/wiki/Monty_Python). Según van Rossum, en diciembre de 1989 buscaba un proyecto de programación como "pasatiempo" durante los días cercanos a la navidad, por lo que decidió escribir un interpretador para un lenguaje de programación en el que había estado pensando recientemente. Escogió el nombre Python por encontrarse en un "humor ligeramente irreverente" y ser un gran aficionado al programa de televisión ["El circo volador de Monty Python" (_Monty Python's Flying Circus_)](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus).
+Python fue creado por el programador holandés [Guido van Rossum](https://gvanrossum.github.io//), quién concibió el diseño original del lenguaje a finales de la década de 1980 y dio a conocer la primera versión en 1991. El nombre del lenguaje es un homenaje al grupo de comedia británico [Monty Python](https://es.wikipedia.org/wiki/Monty_Python). Según van Rossum, en diciembre de 1989 buscaba un proyecto de programación como "pasatiempo" durante los días cercanos a la navidad, por lo que decidió escribir un interpretador para un lenguaje de programación en el que había estado pensando recientemente. Escogió el nombre Python por encontrarse en un "humor ligeramente irreverente" y ser un gran aficionado al programa de televisión ["El circo volador de Monty Python" (_Monty Python's Flying Circus_)](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus).
 
 | ![](img/Guido-portrait-2014.jpg) | ![](img/montypython.jpg) |
 |:---:|:---:|
