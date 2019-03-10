@@ -19,7 +19,7 @@ Sitio web:
 
 | ![](img/growth_major_languages.png) |
 |:---:|
-| Figura 2. Crecimiento de los principales lenguajes de programación<br>Fuente: [Stack Overflow](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318)|
+| Figura 2. Crecimiento de los principales lenguajes de programación en los países de alto ingreso<br>Fuente: [Stack Overflow](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318)|
 
 En la actualidad, Python es ampliamente utilizado en enseñanza de la programación y es el [primer lenguaje de programación más enseñado en las principales universidades de Estados Unidos](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext).
 
