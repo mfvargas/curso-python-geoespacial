@@ -1,6 +1,6 @@
 # Programación de aplicaciones geoespaciales en Python
 ------------------------------------------------------
-| ![](img/python-logo-master-v3-TM-flattened.png) | ![](img/python-logo-master-v3-TM-flattened.png) |
+| ![](img/OrteliusWorldMap1570.jpg) | ![](img/python-logo-master-v3-TM-flattened.png) |
 |:---:|:---:|
 | Figura 1. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)| Figura 2. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
 
