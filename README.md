@@ -7,7 +7,7 @@ Sitio web:
 
 ## Índice
 ---------
-[1. Acerca de Python](https://github.com/mfvargas/curso-intro-python/blob/master/README.md#1-introducci%C3%B3n)
+[1. Acerca de Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#1-acerca-de-python)
 
 ## 1. Acerca de Python
 ------------------
