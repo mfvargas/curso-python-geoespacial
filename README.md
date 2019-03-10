@@ -1,5 +1,8 @@
 # Programación de aplicaciones geoespaciales en Python
---------
+------------------------------------------------------
+| ![](img/python-logo-master-v3-TM-flattened.png) |
+|:---:|
+| Figura 1. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
 Este es un curso introductorio a la programación de aplicaciones geoespaciales en el lenguaje de programación Python.
 
 Sitio web:
@@ -10,12 +13,7 @@ Sitio web:
 [1. Acerca de Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#1-acerca-de-python)
 
 ## 1. Acerca de Python
-------------------
-
-| ![](img/python-logo-master-v3-TM-flattened.png) |
-|:---:|
-| Figura 1. Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
-
+----------------------
 [Python](https://www.python.org/) es un lenguaje de programación de propósito general que ha alcanzado una [gran popularidad en los últimos años](https://www.infoworld.com/article/3331603/pythons-popularity-surges-as-a-mainstay-language.html). Fue declarado el lenguaje del año 2018 por el índice [Tiobe](https://www.tiobe.com/tiobe-index/) de popularidad de lenguajes de programación, debido al crecimiento de su uso en diversas áreas, entre las que destacan la [ciencia de datos](https://en.wikipedia.org/wiki/Data_science) y el [aprendizaje de máquinas](https://en.wikipedia.org/wiki/Machine_learning), además de otras como [pruebas de sistemas](https://en.wikipedia.org/wiki/System_testing), [desarrollo web](https://en.wikipedia.org/wiki/Web_development), [scripting](https://en.wikipedia.org/wiki/Scripting_language) y [visualización de datos](https://en.wikipedia.org/wiki/Data_visualization), entre muchas. Esta popularidad es respaldada por otras fuentes como el índice [PYPL](http://pypl.github.io/PYPL.html) y la comunidad de programadores [Stack Overflow](https://stackoverflow.com/). Esta última lo considera el [lenguaje de programación de mayor crecimiento en los países de alto ingreso](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318), como se muestra en la figura 2.
 
 | ![](img/growth_major_languages.png) |
