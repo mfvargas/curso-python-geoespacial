@@ -92,6 +92,10 @@ Un [ambiente integrado de desarrollo (_Integrated Development Environment_ [IDE]
 #### Notebooks
 Son ambientes virtuales que permiten combinar código fuente con texto, gráficos, videos y otros formatos. También permiten ejecutar un programa instrucción por instrucción y observar las salidas. Se les considera muy apropiados para aprendizaje. El _notebook_ más popular es el [Jupyter Notebook](https://jupyter.org/).
 
+## 4. Ejecución de programas en Python
+### En Jupyter Notebooks
+En el navegador de Anaconda, inicie la opción **Jupyter Notebook**.
+
 ## Recursos adicionales
 ### Información general sobre Python
 |                                                      |
