@@ -54,6 +54,18 @@ La versión 3 de Python fue liberada en 2008 y tiene diferencias en su sintaxis 
 Por estos motivos, este curso se enfocará en Python 3. Cabe destacar que las [diferencias de importancia entre ambas versiones son realmente pocas](https://learntocodewith.me/programming/python/python-2-vs-python-3/#2018-differences-of-python2-vs-3) y un programador experimentado en el uso de Python 3 puede entender facilidad un programa en Python 2 y viceversa.
 
 ## 2. Instalación del interpretador de Python
+El interpretador de Pyhon puede obtenerse de varias formas. Una de la más usuales es en la [página de descargas de Python.org](https://www.python.org/downloads/), en donde pueden obtenerse instaladores para los diferentes sistemas operativos.
+
+En este curso, se utilizará [Anaconda](https://www.anaconda.com/), una distribución libre y de código abierto de Python y de otras herramientas utilizadas para ciencia de datos, como el lenguaje de programación [R](https://www.r-project.org/). Anaconda simplifica el manejo de paquetes, con sus diferentes versiones y dependencias, y está preconfigurada con más de 1500 paquetes preinstalados, lo que elimina la necesidad de aprender a instalar cada uno individualmente. Anaconda incorpora también el administrador de paquetes [Conda](https://github.com/conda).
+
+### Instalación de Anaconda
+La [página de descargas de Anaconda](https://www.anaconda.com/distribution/) proporciona instaladores para las diferentes versiones de Python y de los sistemas operativos (Windows, macOS, Linux). Luego de descargar la opción deseada, debe instalarse de acuerdo con la [documentación de la instalación](https://docs.anaconda.com/anaconda/install/).
+
+Windows
+```shell
+bash ~/Downloads/Anaconda3-2018.12-Linux-x86_64.sh
+```
+
 
 
 ## Recursos adicionales
