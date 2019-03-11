@@ -79,12 +79,13 @@ Son editores para cualquier tipo de archivo de texto. Son fáciles de utilizar, 
 * [Notepad++](https://notepad-plus-plus.org/)
 
 ### Ambientes integrados de desarrollo
-Un [ambiente integrado de desarrollo (_Integrated Development Environment_ [IDE])](https://en.wikipedia.org/wiki/Integrated_development_environment), es una aplicación informática provee soporte integrado al proceso de programación. Típicamente, consiste de un [editor de código fuente](https://es.wikipedia.org/wiki/Editor_de_c%C3%B3digo_fuente), [herramientas para la construcción de archivos ejecutables](https://en.wikipedia.org/wiki/Build_automation) y un [depurador (_debugger_)](https://es.wikipedia.org/wiki/Depurador). En el caso de Python, los más populares son:
+Un [ambiente integrado de desarrollo (_Integrated Development Environment_ [IDE])](https://en.wikipedia.org/wiki/Integrated_development_environment), es una aplicación informática provee soporte integrado al proceso de programación. Típicamente, consiste de un editor de texto para el código fuente, [herramientas para la construcción de archivos ejecutables](https://en.wikipedia.org/wiki/Build_automation) y un [depurador (_debugger_)](https://en.wikipedia.org/wiki/Debugger). Facilitan la elaboración de proyectos de mayor tamaño y complejidad. En el caso de Python, los IDE más populares son:
 
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Spyder](https://docs.spyder-ide.org/)
 
 ### Notebooks
+Son ambientes virtuales que permiten combinar código fuente con texto. También permiten ejecutar un programa instrucción por instrucción y observar las salidas. Se les considera muy apropiados para aprendizaje. El _notebook_ más popular es el [Jupyter Notebook](https://jupyter.org/).
 
 ## Recursos adicionales
 ### Información general sobre Python
