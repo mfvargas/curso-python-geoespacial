@@ -55,14 +55,14 @@ Por estos motivos, este curso se enfocará en Python 3. Cabe destacar que las [d
 
 
 ## Recursos adicionales
-## Información general sobre Python
+### Información general sobre Python
 |                                                      |
 | ---------------------------------------------------- |
 | [Python.org](https://www.python.org/)                |
 | [PyPI - the Python Package Index](https://pypi.org/) |
 | [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword/) |
 
-## Importancia del lenguaje Python
+### Importancia del lenguaje Python
 |                                                               |
 | ------------------------------------------------------------- |
 | [InforWorld: Python’s popularity surges as a mainstay language](https://www.infoworld.com/article/3331603/pythons-popularity-surges-as-a-mainstay-language.html) |
