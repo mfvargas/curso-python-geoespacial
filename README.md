@@ -61,11 +61,12 @@ En este curso, se utilizará [Anaconda](https://www.anaconda.com/), una distribu
 ### Instalación de Anaconda
 La [página de descargas de Anaconda](https://www.anaconda.com/distribution/) proporciona instaladores para las diferentes versiones de Python y de los sistemas operativos (Windows, macOS, Linux). Luego de descargar la opción deseada, debe instalarse de acuerdo con la [documentación de la instalación](https://docs.anaconda.com/anaconda/install/).
 
-Windows
+####Linux
+En una terminal, debe escribirse el comando:
 ```shell
 bash ~/Downloads/Anaconda3-2018.12-Linux-x86_64.sh
 ```
-
+El nombre y la ruta del archivo deben modificarse, en caso de ser diferentes.
 
 
 ## Recursos adicionales
