@@ -59,14 +59,12 @@ El interpretador de Pyhon puede obtenerse de varias formas. Una de la más usual
 En este curso, se utilizará [Anaconda](https://www.anaconda.com/), una distribución libre y de código abierto de Python y de otras herramientas utilizadas para ciencia de datos, como el lenguaje de programación [R](https://www.r-project.org/). Anaconda simplifica el manejo de paquetes, con sus diferentes versiones y dependencias, y está preconfigurada con más de 1500 paquetes preinstalados, lo que elimina la necesidad de aprender a instalar cada uno individualmente. Anaconda incorpora también el administrador de paquetes [Conda](https://github.com/conda).
 
 ### Instalación de Anaconda
-La [página de descargas de Anaconda](https://www.anaconda.com/distribution/) proporciona instaladores para las diferentes versiones de Python y de los sistemas operativos (Windows, macOS, Linux). Luego de descargar la opción deseada, debe instalarse de acuerdo con la [documentación de la instalación](https://docs.anaconda.com/anaconda/install/).
+La [página de descargas de Anaconda](https://www.anaconda.com/distribution/) proporciona instaladores para las diferentes versiones de Python y de los sistemas operativos (Windows, macOS, Linux). Luego de descargar la opción deseada, seguirse las instrucciones especificadas en la [página de documentación de la instalación](https://docs.anaconda.com/anaconda/install/).
 
-#### Linux
-1. En una terminal, debe escribirse el comando (el nombre y la ruta del archivo deben modificarse, en caso de ser diferentes.):
-```shell
-bash ~/Downloads/Anaconda3-2018.12-Linux-x86_64.sh
-```
-2. 
+Para probar la instalación, puede iniciar el navegador de Anaconda:
+| ![](img/anaconda-navigator.png) |
+|:---:|
+| Figura 4. Navegador de Anaconda |
 
 ## Recursos adicionales
 ### Información general sobre Python
