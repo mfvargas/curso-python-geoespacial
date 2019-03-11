@@ -51,7 +51,7 @@ La versión 3 de Python fue liberada en 2008 y tiene diferencias en su sintaxis 
 
 Por estos motivos, este curso se enfocará en Python 3. Cabe destacar que las [diferencias de importancia entre ambas versiones son realmente pocas](https://learntocodewith.me/programming/python/python-2-vs-python-3/#2018-differences-of-python2-vs-3) y un programador experimentado en el uso de Python 3 puede entender facilidad un programa en Python 2 y viceversa.
 
-## 2. Instalación de Python
+## 2. Instalación del interpretador de Python
 
 
 ## Recursos adicionales
