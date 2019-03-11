@@ -62,6 +62,7 @@ En este curso, se utilizará [Anaconda](https://www.anaconda.com/), una distribu
 La [página de descargas de Anaconda](https://www.anaconda.com/distribution/) proporciona instaladores para las diferentes versiones de Python y de los sistemas operativos (Windows, macOS, Linux). Luego de descargar la opción deseada, seguirse las instrucciones especificadas en la [página de documentación de la instalación](https://docs.anaconda.com/anaconda/install/).
 
 Para probar la instalación, puede iniciar el navegador de Anaconda:
+
 | ![](img/anaconda-navigator.png) |
 |:---:|
 | Figura 4. Navegador de Anaconda |
