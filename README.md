@@ -67,6 +67,16 @@ Para probar la instalación, puede iniciar el navegador de Anaconda:
 |:---:|
 | Figura 4. Navegador de Anaconda |
 
+
+## 3. Elaboración de programas en Python
+Hay tres principales formas de elaborar programas en Python: mediante un editor de texto, un ambiente integrado de desarrollo o un _notebook_.
+
+### Editores de texto
+
+### Ambientes integrados de desarrollo
+
+### Notebooks
+
 ## Recursos adicionales
 ### Información general sobre Python
 |                                                      |
