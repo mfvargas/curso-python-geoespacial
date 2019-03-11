@@ -12,6 +12,8 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 
 [2. Instalación del interpretador de Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#2-instalaci%C3%B3n-del-interpretador-de-python)
 
+[3. Elaboración de programas en Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#3-elaboraci%C3%B3n-de-programas-en-python)
+
 [Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#recursos-adicionales)
 
 ## 1. Acerca de Python
