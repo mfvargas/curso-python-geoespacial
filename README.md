@@ -72,6 +72,11 @@ Para probar la instalación, puede iniciar el navegador de Anaconda:
 Hay tres principales formas de elaborar programas en Python: mediante un editor de texto, un ambiente integrado de desarrollo o un _notebook_.
 
 ### Editores de texto
+Son editores para cualquier tipo de archivo de texto. Son fáciles de utilizar, pero no aportan mayores facilidades para el proceso de desarrollo. Algunos de los más populares son:
+
+* [Atom](https://atom.io/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Notepad++](https://notepad-plus-plus.org/)
 
 ### Ambientes integrados de desarrollo
 
