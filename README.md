@@ -69,23 +69,24 @@ Para probar la instalación, puede iniciar el navegador de Anaconda:
 
 
 ## 3. Elaboración de programas en Python
+### Ambientes de desarrollo
 Hay tres principales formas de elaborar programas en Python: mediante un editor de texto, un ambiente integrado de desarrollo o un _notebook_.
 
-### Editores de texto
+#### Editores de texto
 Son editores para cualquier tipo de archivo de texto. Son fáciles de utilizar, pero no aportan mayores facilidades para el proceso de desarrollo. Algunos de los más populares son:
 
 * [Atom](https://atom.io/)
 * [Sublime Text](https://www.sublimetext.com/)
 * [Notepad++](https://notepad-plus-plus.org/)
 
-### Ambientes integrados de desarrollo
+#### Ambientes integrados de desarrollo
 Un [ambiente integrado de desarrollo (_Integrated Development Environment_ [IDE])](https://en.wikipedia.org/wiki/Integrated_development_environment), es una aplicación informática provee soporte integrado al proceso de programación. Típicamente, consiste de un editor de texto para el código fuente, [herramientas para la construcción de archivos ejecutables](https://en.wikipedia.org/wiki/Build_automation) y un [depurador (_debugger_)](https://en.wikipedia.org/wiki/Debugger). Facilitan la elaboración de proyectos de mayor tamaño y complejidad. En el caso de Python, los IDE más populares son:
 
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Spyder](https://docs.spyder-ide.org/)
 
-### Notebooks
-Son ambientes virtuales que permiten combinar código fuente con texto. También permiten ejecutar un programa instrucción por instrucción y observar las salidas. Se les considera muy apropiados para aprendizaje. El _notebook_ más popular es el [Jupyter Notebook](https://jupyter.org/).
+#### Notebooks
+Son ambientes virtuales que permiten combinar código fuente con texto, gráficos, videos y otros formatos. También permiten ejecutar un programa instrucción por instrucción y observar las salidas. Se les considera muy apropiados para aprendizaje. El _notebook_ más popular es el [Jupyter Notebook](https://jupyter.org/).
 
 ## Recursos adicionales
 ### Información general sobre Python
