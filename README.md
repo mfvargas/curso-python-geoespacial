@@ -24,13 +24,13 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 
 | ![](img/growth_major_languages.png) |
 |:---:|
-| Figura 1. Crecimiento de los principales lenguajes de programación en los países de alto ingreso.<br>Fuente: [Stack Overflow](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318)|
+| Figura 1. Crecimiento de los principales lenguajes de programación en los países de alto ingreso.<br>Fuente: [Stack Overflow](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318).|
 
 En la actualidad, Python es ampliamente utilizado en enseñanza de la programación y es el [lenguaje más empleado en cursos introductorios de programación de las principales universidades de Estados Unidos](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext), como se muestra en la figura 2.
 
 | ![](img/top-languajes-universities.png) |
 |:---:|
-| Figura 2. Lenguajes de programación utilizados en los departamentos de ciencias de la computación de las principales universidades de Estados Unidos.<br>Fuente: [Guo (2014)](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext)|
+| Figura 2. Lenguajes de programación utilizados en los departamentos de ciencias de la computación de las principales universidades de Estados Unidos.<br>Fuente: [Guo (2014)](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext).|
 
 Este uso en enseñanza se debe, entre otras razones, a que los programas en Python son más fáciles de leer y requieren menos líneas de [código fuente](https://en.wikipedia.org/wiki/Source_code) que otros lenguajes de amplia difusión, tales como [Java](http://oracle.com/java/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) o [C++](https://isocpp.org/).
 
@@ -38,7 +38,7 @@ Python fue creado por el programador holandés [Guido van Rossum](https://gvanro
 
 | ![](img/Guido-portrait-2014.jpg) | ![](img/montypython.jpg) |
 |:---:|:---:|
-| Figura 3. Guido van Rossum, creador de Python<br>Fuente: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guido-portrait-2014.jpg) | Figura 4. El circo volador de Monty Python<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/)|
+| Figura 3. Guido van Rossum, creador de Python.<br>Fuente: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guido-portrait-2014.jpg). | Figura 4. El circo volador de Monty Python.<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/).|
 
 ### Principales características del lenguaje
 La filosofía de diseño de Python enfatiza la importancia de que los programas sean fáciles de leer, de manera que los programadores puedan entender rápidamente su propósito, control de flujo y funcionamiento. Esto facilita el mantenimiento de los programas existentes y disminuye la necesidad de crear otros nuevos.
@@ -62,7 +62,7 @@ En la figura 5, puede observarse como Python es ampliamente utilizado como lengu
 
 | ![](img/python-gis-software.png) |
 |:---:|
-| Figura 5. Uso de Python en SIG.<br>Fuente: [Zambelli et al. (2013)](http://www.mdpi.com/2220-9964/2/1/201)|
+| Figura 5. Uso de Python en SIG.<br>Fuente: [Zambelli et al. (2013)](http://www.mdpi.com/2220-9964/2/1/201).|
 
 ### Python 2 vs Python 3
 La versión 3 de Python fue liberada en 2008 y tiene diferencias en su sintaxis que la hacen incompatible con la versión 2. Desde entonces, se recomienda la migración de los programas en Python 2 a Python 3 y el uso de Python 3 para el desarrollo de nuevas aplicaciones. [La versión 2 no recibirá más soporte a partir de 2020](https://www.python.org/dev/peps/pep-0373/). La PSF proporciona una [guía oficial para migrar programas de Python 2 a Python 3](https://docs.python.org/3/howto/pyporting.html).
@@ -102,7 +102,7 @@ Para probar la instalación, puede iniciar el navegador de Anaconda:
 
 | ![](img/anaconda-navigator.png) |
 |:---:|
-| Figura 4. Navegador de Anaconda |
+| Figura 6. Navegador de Anaconda. |
 
 ## 4. Ejecución de programas en Python
 ### En Jupyter Notebooks
