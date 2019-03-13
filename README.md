@@ -118,7 +118,7 @@ Seleccione la opción **New - Notebook: Python** para crear un nuevo Jupyter Not
 
 | ![](img/jupyter-interface.png) |
 |:---:|
-| Figura 8. Creación de un nuevo Jupyter Notebook. |
+| Figura 8. Interfaz de un nuevo Jupyter Notebook. |
 
 Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con código fuente o con texto en Markdown, como en el ejemplo de la figura 9.
 
