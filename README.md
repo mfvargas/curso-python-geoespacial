@@ -55,7 +55,28 @@ La versión 3 de Python fue liberada en 2008 y tiene diferencias en su sintaxis 
 
 Por estos motivos, este curso se enfocará en Python 3. Cabe destacar que las [diferencias de importancia entre ambas versiones son realmente pocas](https://learntocodewith.me/programming/python/python-2-vs-python-3/#2018-differences-of-python2-vs-3) y un programador experimentado en el uso de Python 3 puede entender facilidad un programa en Python 2 y viceversa.
 
-## 2. Instalación del interpretador de Python
+## 2. Herramientas para desarrollo en Python
+Hay tres principales tipos de herramientas para elaborar programas en Python: editores de texto, ambientes integrados de desarrollo y _notebooks_.
+
+### Editores de texto
+Son editores para cualquier tipo de archivo de texto. Son fáciles de utilizar, pero no aportan mayores facilidades para el proceso de desarrollo. Algunos de los más populares son:
+
+* [Atom](https://atom.io/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Notepad++](https://notepad-plus-plus.org/)
+
+**NOTA:** no se deben editar programas con procesadores de texto como Microsoft Word o LibreOffice Writer, ya que pueden añadir caracteres especiales que no "entienden" los interpretadores ni los compiladores. 
+
+### Ambientes integrados de desarrollo
+Un [ambiente integrado de desarrollo (_Integrated Development Environment_ [IDE])](https://en.wikipedia.org/wiki/Integrated_development_environment), es una aplicación informática provee soporte integrado al proceso de programación. Típicamente, consiste de un editor de texto para el código fuente, [herramientas para la construcción de archivos ejecutables](https://en.wikipedia.org/wiki/Build_automation) y un [depurador (_debugger_)](https://en.wikipedia.org/wiki/Debugger). Facilitan la elaboración de proyectos de mayor tamaño y complejidad. En el caso de Python, los IDE más populares son:
+
+* [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Spyder](https://docs.spyder-ide.org/)
+
+### Notebooks
+Son ambientes virtuales que permiten combinar código fuente con texto, gráficos, videos y otros formatos. También permiten ejecutar un programa instrucción por instrucción y observar las salidas. Se les considera muy apropiados para aprendizaje. El _notebook_ más popular es el [Jupyter Notebook](https://jupyter.org/).
+
+## 3. Instalación del interpretador de Python
 El interpretador de Pyhon puede obtenerse de varias formas. Una de la más usuales es en la [página de descargas de Python.org](https://www.python.org/downloads/), en donde pueden obtenerse instaladores para los diferentes sistemas operativos.
 
 En este curso, se utilizará [Anaconda](https://www.anaconda.com/), una distribución libre y de código abierto de Python y de otras herramientas utilizadas para ciencia de datos, como el lenguaje de programación [R](https://www.r-project.org/). Anaconda simplifica el manejo de paquetes, con sus diferentes versiones y dependencias, y está preconfigurada con más de 1500 paquetes preinstalados, lo que elimina la necesidad de aprender a instalar cada uno individualmente. Anaconda incorpora también el administrador de paquetes [Conda](https://github.com/conda).
@@ -68,29 +89,6 @@ Para probar la instalación, puede iniciar el navegador de Anaconda:
 | ![](img/anaconda-navigator.png) |
 |:---:|
 | Figura 4. Navegador de Anaconda |
-
-
-## 3. Elaboración de programas en Python
-### Ambientes de desarrollo
-Hay tres principales formas de elaborar programas en Python: mediante un editor de texto, un ambiente integrado de desarrollo o un _notebook_.
-
-#### Editores de texto
-Son editores para cualquier tipo de archivo de texto. Son fáciles de utilizar, pero no aportan mayores facilidades para el proceso de desarrollo. Algunos de los más populares son:
-
-* [Atom](https://atom.io/)
-* [Sublime Text](https://www.sublimetext.com/)
-* [Notepad++](https://notepad-plus-plus.org/)
-
-**NOTA:** no se deben editar programas con procesadores de texto como Microsoft Word o LibreOffice Writer, ya que pueden añadir caracteres especiales que no "entienden" los interpretadores ni los compiladores. 
-
-#### Ambientes integrados de desarrollo
-Un [ambiente integrado de desarrollo (_Integrated Development Environment_ [IDE])](https://en.wikipedia.org/wiki/Integrated_development_environment), es una aplicación informática provee soporte integrado al proceso de programación. Típicamente, consiste de un editor de texto para el código fuente, [herramientas para la construcción de archivos ejecutables](https://en.wikipedia.org/wiki/Build_automation) y un [depurador (_debugger_)](https://en.wikipedia.org/wiki/Debugger). Facilitan la elaboración de proyectos de mayor tamaño y complejidad. En el caso de Python, los IDE más populares son:
-
-* [PyCharm](https://www.jetbrains.com/pycharm/)
-* [Spyder](https://docs.spyder-ide.org/)
-
-#### Notebooks
-Son ambientes virtuales que permiten combinar código fuente con texto, gráficos, videos y otros formatos. También permiten ejecutar un programa instrucción por instrucción y observar las salidas. Se les considera muy apropiados para aprendizaje. El _notebook_ más popular es el [Jupyter Notebook](https://jupyter.org/).
 
 ## 4. Ejecución de programas en Python
 ### En Jupyter Notebooks
