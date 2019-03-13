@@ -112,6 +112,6 @@ En el navegador de Anaconda, inicie la opción **Jupyter Notebook**.
 | [Communications ACM: Python Is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext) |
 
 ### Libros sobre Python
-|                                                      |
-| ---------------------------------------------------- |
-| [Severance, C. 2009](https://www.py4e.com/book.php)  |
+|                                                                            |
+| -------------------------------------------------------------------------- |
+| [Severance, C. 2009: Python for Everybody](https://www.py4e.com/book.php)  |
