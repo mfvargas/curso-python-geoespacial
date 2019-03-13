@@ -73,7 +73,7 @@ Por estos motivos, este curso se enfocará en Python 3. Cabe destacar que las [d
 Hay tres principales tipos de herramientas para elaborar programas en Python: editores de texto, ambientes integrados de desarrollo y _notebooks_.
 
 ### Editores de texto
-Son editores para cualquier tipo de archivo de texto. Son fáciles de utilizar, pero no aportan mayores facilidades para el proceso de desarrollo. Algunos de los más populares son:
+Son editores para cualquier tipo de archivo de texto. Son fáciles de utilizar, pero no aportan mayores facilidades para el proceso de desarrollo. Son apropiados para programas pequeños y de no muy alta complejidad. Algunos de los más populares son:
 
 * [Atom](https://atom.io/)
 * [Sublime Text](https://www.sublimetext.com/)
