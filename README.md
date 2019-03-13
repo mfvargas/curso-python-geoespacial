@@ -88,7 +88,7 @@ Un [ambiente integrado de desarrollo (_Integrated Development Environment_ [IDE]
 * [Spyder](https://docs.spyder-ide.org/)
 
 ### Notebooks
-Son ambientes virtuales que permiten combinar código fuente con texto, gráficos, videos y otros formatos. También permiten ejecutar un programa instrucción por instrucción y observar las salidas. Se les considera muy apropiados para aprendizaje. El _notebook_ más popular es el [Jupyter Notebook](https://jupyter.org/).
+Son ambientes virtuales que combinan código fuente con texto, gráficos, videos y otros formatos. Se les considera muy apropiados para aprendizaje. El _notebook_ más popular es el [Jupyter Notebook](https://jupyter.org/), el cual proporciona una interfaz en ambiente web que permite la elaboración de documentos que permiten la ejecución interactiva de comandos en varios lenguajes (Python, R, Julia y Haskell, entre otros) y su documentación con el lenguaje de marcas [Markdown](https://daringfireball.net/projects/markdown/).
 
 ## 3. Instalación del interpretador de Python
 El interpretador de Pyhon puede obtenerse de varias formas. Una de la más usuales es en la [página de descargas de Python.org](https://www.python.org/downloads/), en donde pueden obtenerse instaladores para los diferentes sistemas operativos.
@@ -96,7 +96,7 @@ El interpretador de Pyhon puede obtenerse de varias formas. Una de la más usual
 En este curso, se utilizará [Anaconda](https://www.anaconda.com/), una distribución libre y de código abierto de Python y de otras herramientas utilizadas para ciencia de datos, como el lenguaje de programación [R](https://www.r-project.org/). Anaconda simplifica el manejo de paquetes, con sus diferentes versiones y dependencias, y está preconfigurada con más de 1500 paquetes preinstalados, lo que elimina la necesidad de aprender a instalar cada uno individualmente. Anaconda incorpora también el administrador de paquetes [Conda](https://conda.io/).
 
 ### Instalación de Anaconda
-La [página de descargas de Anaconda](https://www.anaconda.com/distribution/) proporciona instaladores para las diferentes versiones de Python y de los sistemas operativos (Windows, macOS, Linux). Luego de descargar la opción deseada, seguirse las instrucciones especificadas en la [página de documentación de la instalación](https://docs.anaconda.com/anaconda/install/).
+La [página de descargas de Anaconda](https://www.anaconda.com/distribution/) proporciona instaladores para las diferentes versiones de Python y de los sistemas operativos (Windows, macOS, Linux). Luego de descargarse la opción deseada, deben seguirse las instrucciones especificadas en la [página de documentación de la instalación](https://docs.anaconda.com/anaconda/install/).
 
 Para probar la instalación, puede iniciar el navegador de Anaconda:
 
@@ -105,8 +105,16 @@ Para probar la instalación, puede iniciar el navegador de Anaconda:
 | Figura 6. Navegador de Anaconda. |
 
 ## 4. Ejecución de programas en Python
+Con Anaconda, pueden ejecutarse programas en Python tanto desde la línea de comandos del sistema operativo como a través de Jupyter Notebooks.
+
 ### En Jupyter Notebooks
-En el navegador de Anaconda, inicie la opción **Jupyter Notebook**.
+En el navegador de Anaconda, inicie la opción **Jupyter Notebook**. Se abrirá una ventana en un navegador web como la de la figura 7.
+
+| ![](img/jupyter-files.png) |
+|:---:|
+| Figura 7. Creación de un nuevo Jupyter Notebook. |
+
+
 
 ## Recursos adicionales
 ### Información general sobre Python
