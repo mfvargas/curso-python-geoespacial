@@ -101,10 +101,11 @@ En el navegador de Anaconda, inicie la opción **Jupyter Notebook**.
 |                                                      |
 | ---------------------------------------------------- |
 | [Python.org](https://www.python.org/)                |
+| [Python documentation](https://docs.python.org/)     |
 | [PyPI - the Python Package Index](https://pypi.org/) |
 | [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword/) |
 
-### Importancia del lenguaje Python
+### Artículos acerca del impacto y el crecimiento de Python
 |                                                               |
 | ------------------------------------------------------------- |
 | [InforWorld: Python’s popularity surges as a mainstay language](https://www.infoworld.com/article/3331603/pythons-popularity-surges-as-a-mainstay-language.html) |
