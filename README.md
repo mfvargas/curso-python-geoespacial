@@ -110,3 +110,8 @@ En el navegador de Anaconda, inicie la opción **Jupyter Notebook**.
 | [InforWorld: Python’s popularity surges as a mainstay language](https://www.infoworld.com/article/3331603/pythons-popularity-surges-as-a-mainstay-language.html) |
 | [Stack Overflow: The Incredible Growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318) |
 | [Communications ACM: Python Is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext) |
+
+### Libros sobre Python
+|                                                      |
+| ---------------------------------------------------- |
+| [Severance, C. 2009](https://www.py4e.com/book.php)  |
