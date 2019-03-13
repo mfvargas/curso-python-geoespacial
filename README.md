@@ -114,7 +114,11 @@ En el navegador de Anaconda, inicie la opción **Jupyter Notebook**. Se abrirá 
 |:---:|
 | Figura 7. Creación de un nuevo Jupyter Notebook. |
 
+Seleccione la opción **New - Notebook: Python** para crear un nuevo Jupyter Notebook con la interfaz de la figura 8.
 
+| ![](img/jupyter-interface.png) |
+|:---:|
+| Figura 8. Creación de un nuevo Jupyter Notebook. |
 
 ## Recursos adicionales
 ### Información general sobre Python
