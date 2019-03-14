@@ -68,7 +68,7 @@ En la figura 5, puede observarse como Python es ampliamente utilizado como lengu
 |:---:|
 | Figura 5. Uso de Python en SIG.<br>Fuente: [Zambelli et al. (2013)](http://www.mdpi.com/2220-9964/2/1/201).|
 
-### Python 2 vs Python 3
+### Python 2 y Python 3
 La versión 3 de Python fue liberada en 2008 y tiene diferencias en su sintaxis que la hacen incompatible con la versión 2. Desde entonces, se recomienda la migración de los programas en Python 2 a Python 3 y el uso de Python 3 para el desarrollo de nuevas aplicaciones. [La versión 2 no recibirá más soporte a partir de 2020](https://www.python.org/dev/peps/pep-0373/). La PSF proporciona una [guía oficial para migrar programas de Python 2 a Python 3](https://docs.python.org/3/howto/pyporting.html).
 
 Por estos motivos, este curso se enfocará en Python 3. Cabe destacar que las [diferencias de importancia entre ambas versiones son realmente pocas](https://learntocodewith.me/programming/python/python-2-vs-python-3/#2018-differences-of-python2-vs-3) y un programador experimentado en el uso de Python 3 puede entender facilidad un programa en Python 2 y viceversa.
