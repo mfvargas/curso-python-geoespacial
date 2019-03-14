@@ -18,7 +18,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 
 [4. Ejecución de programas en Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#4-ejecuci%C3%B3n-de-programas-en-python)
 
-[5. Sintaxis de Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#4-ejecuci%C3%B3n-de-programas-en-python)
+[5. Sintaxis de Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#5-sintaxis-de-python)
 
 [Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#recursos-adicionales)
 
@@ -131,8 +131,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | Figura 9. Ejemplo de Jupyter Notebook. |
 
 ## 5. Sintaxis de Python
-
-
+[Tipos de datos y variables]()
 
 ## Recursos adicionales
 ### Información general sobre Python
