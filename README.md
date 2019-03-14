@@ -130,7 +130,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 |:---:|
 | Figura 9. Programa ["Hola Mundo"](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Hola%20mundo.ipynb) en Jupyter Notebook. |
 
-## 5. Sintaxis de Python
+## 5. Sintaxis básica de Python
 [Tipos de datos y variables](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Tipos%20de%20datos%20y%20variables.ipynb)
 
 ## Recursos adicionales
