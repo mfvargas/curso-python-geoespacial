@@ -28,6 +28,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 
 [5. Sintaxis de Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#5-sintaxis-b%C3%A1sica-de-python)
 - [5.1. Tipos de datos y variables](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Tipos%20de%20datos%20y%20variables.ipynb)
+* [5.1.2. Números](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/N%C3%BAmeros.ipynb)
 
 [Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#recursos-adicionales)
 
