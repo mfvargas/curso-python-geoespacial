@@ -31,6 +31,9 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
     * [5.1.1. Números](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/N%C3%BAmeros.ipynb)
     * [5.1.2. Hileras](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Hileras.ipynb)    
 - [5.2. Condicionales]()    
+- [5.3. Manejo de excepciones]()   
+- [5.4. Ciclos]()   
+- [5.5. Funcionales]()   
 
 [Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#recursos-adicionales)
 
