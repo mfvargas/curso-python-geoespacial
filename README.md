@@ -44,7 +44,7 @@ Python fue creado por el programador holandés [Guido van Rossum](https://gvanro
 |:---:|:---:|
 | Figura 3. Guido van Rossum, creador de Python.<br>Fuente: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guido-portrait-2014.jpg). | Figura 4. El circo volador de Monty Python.<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/).|
 
-### Principales características del lenguaje
+### 1.1. Principales características del lenguaje
 La filosofía de diseño de Python enfatiza la importancia de que los programas sean fáciles de leer, de manera que los programadores puedan entender rápidamente su propósito, control de flujo y funcionamiento. Esto facilita el mantenimiento de los programas existentes y disminuye la necesidad de crear otros nuevos.
 
 Las siguientes son otras características importantes del lenguaje Python:
