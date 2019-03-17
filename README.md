@@ -162,9 +162,10 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [Communications ACM: Python Is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext) |
 
 ### Tutoriales
-|                                                                            |
-| -------------------------------------------------------------------------- |
-| [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)  |
+|                                                                                  |
+| -------------------------------------------------------------------------------- |
+| [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)        |
+| [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)  |
 
 ### Libros sobre Python
 |                                                                            |
