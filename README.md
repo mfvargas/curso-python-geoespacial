@@ -157,7 +157,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 - [5.5 Funciones]()
 
 
-## Recursos adicionales
+## 6. Recursos adicionales
 ### Información general sobre Python
 |                                                      |
 | ---------------------------------------------------- |
