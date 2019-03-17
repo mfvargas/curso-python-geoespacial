@@ -12,7 +12,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 ---------
 [1. Acerca de Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#1-acerca-de-python)
 
-    [1.1. Principales características del lenguaje](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#11-principales-caracter%C3%ADsticas-del-lenguaje)
+    * [1.1. Principales características del lenguaje](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#11-principales-caracter%C3%ADsticas-del-lenguaje)
 
 [2. Herramientas para desarrollo en Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#2-herramientas-para-desarrollo-en-python)
 
