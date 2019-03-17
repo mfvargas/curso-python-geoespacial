@@ -135,6 +135,12 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 
     * [Números](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/N%C3%BAmeros.ipynb)
     * [Hileras](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Hileras.ipynb)
+    
+- [Condicionales]()
+- [Manejo de excepciones]()
+- [Ciclos]()
+- [Funciones]()
+
 
 ## Recursos adicionales
 ### Información general sobre Python
