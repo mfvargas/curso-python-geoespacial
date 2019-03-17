@@ -79,7 +79,7 @@ Por estos motivos, este curso se enfocará en Python 3. Cabe destacar que las [d
 ## 2. Herramientas para desarrollo en Python
 Hay tres principales tipos de herramientas para elaborar programas en Python: editores de texto, ambientes integrados de desarrollo y _notebooks_.
 
-### Editores de texto
+### 2.1. Editores de texto
 Son editores para cualquier tipo de archivo de texto. Aquí se presentan los que proveen algunas facilidades para la edición de código fuente (ej. colores para diferenciar palabras clave o tabulación automática). Son fáciles de utilizar, pero no aportan mayores facilidades para el proceso de desarrollo. Son apropiados para programas pequeños y de no muy alta complejidad. Algunos de los más populares son:
 
 * [Atom](https://atom.io/)
@@ -88,13 +88,13 @@ Son editores para cualquier tipo de archivo de texto. Aquí se presentan los que
 
 **NOTA:** no se deben editar programas con procesadores de texto como Microsoft Word o LibreOffice Writer, ya que pueden añadir caracteres especiales que no "entienden" los interpretadores ni los compiladores. 
 
-### Ambientes integrados de desarrollo
+### 2.2. Ambientes integrados de desarrollo
 Un [ambiente integrado de desarrollo (_Integrated Development Environment_ [IDE])](https://en.wikipedia.org/wiki/Integrated_development_environment), es una aplicación informática provee soporte integrado al proceso de programación. Típicamente, consiste de un editor de texto para el código fuente, [herramientas para la construcción de archivos ejecutables](https://en.wikipedia.org/wiki/Build_automation) y un [depurador (_debugger_)](https://en.wikipedia.org/wiki/Debugger). Facilitan la elaboración de proyectos de mayor tamaño y complejidad. En el caso de Python, los IDE más populares son:
 
 * [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Spyder](https://docs.spyder-ide.org/)
 
-### Notebooks
+### 2.3. Notebooks
 Son ambientes virtuales que combinan código fuente con texto, gráficos, videos y otros formatos. Se les considera muy apropiados para aprendizaje. El _notebook_ más popular es el [Jupyter Notebook](https://jupyter.org/), el cual proporciona una interfaz en ambiente web que permite la elaboración de documentos que permiten la ejecución interactiva de comandos en varios lenguajes (Python, R, Julia y Haskell, entre otros) y su documentación con el lenguaje de marcas [Markdown](https://daringfireball.net/projects/markdown/).
 
 ## 3. Instalación del interpretador de Python
