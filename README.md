@@ -35,7 +35,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 - [5.4. Ciclos]()   
 - [5.5. Funcionales]()   
 
-[Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#recursos-adicionales)
+[6. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#6-recursos-adicionales)
 
 ## 1. Acerca de Python
 ----------------------
