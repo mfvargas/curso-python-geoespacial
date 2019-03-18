@@ -30,10 +30,11 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 - [5.1. Tipos de datos y variables](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Tipos%20de%20datos%20y%20variables.ipynb)
     * [5.1.1. Números](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/N%C3%BAmeros.ipynb)
     * [5.1.2. Hileras](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Hileras.ipynb)    
-- [5.2. Condicionales]()    
-- [5.3. Manejo de excepciones]()   
-- [5.4. Ciclos]()   
-- [5.5. Funcionales]()   
+- [5.2. Expresiones]()    
+- [5.3. Condicionales]()    
+- [5.4. Manejo de excepciones]()   
+- [5.5. Ciclos]()   
+- [5.6. Funcionales]()   
 
 [6. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#6-recursos-adicionales)
 
@@ -150,12 +151,12 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 
     * [5.1.1. Números](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/N%C3%BAmeros.ipynb)
     * [5.1.2. Hileras](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Hileras.ipynb)
-    
-- [5.2. Condicionales]()
-- [5.3. Manejo de excepciones]()
-- [5.4. Ciclos]()
-- [5.5 Funciones]()
 
+- [5.2. Expresiones]()
+- [5.3. Condicionales]()
+- [5.4. Manejo de excepciones]()
+- [5.5. Ciclos]()
+- [5.6 Funciones]()
 
 ## 6. Recursos adicionales
 ### Información general sobre Python
