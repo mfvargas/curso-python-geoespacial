@@ -34,7 +34,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 - [5.3. Condicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Condicionales.ipynb)    
 - [5.4. Manejo de excepciones](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Manejo%20de%20excepciones.ipynb)   
 - [5.5. Ciclos](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Ciclos.ipynb)   
-- [5.6. Funciones]()   
+- [5.6. Funciones](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Funciones.ipynb)   
 
 [6. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#6-recursos-adicionales)
 
@@ -156,7 +156,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 - [5.3. Condicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Condicionales.ipynb)
 - [5.4. Manejo de excepciones](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Manejo%20de%20excepciones.ipynb)
 - [5.5. Ciclos](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Ciclos.ipynb)
-- [5.6 Funciones]()
+- [5.6 Funciones](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Funciones.ipynb)
 
 ## 6. Recursos adicionales
 ### Información general sobre Python
