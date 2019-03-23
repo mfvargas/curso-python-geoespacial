@@ -168,6 +168,11 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [Python documentation](https://docs.python.org/)     |
 | [PyPI - the Python Package Index](https://pypi.org/) |
 | [Foreword for "Programming Python" (1st ed.)](https://www.python.org/doc/essays/foreword/) |
+
+### Guías de estilo en Python
+|                                                      |
+| ---------------------------------------------------- |
+| [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) |
 | [The Zen of Python](https://www.python.org/dev/peps/pep-0020/) |
 | [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) |
 | [Code Like a Pythonista: Idiomatic Python](https://david.goodger.org/projects/pycon/2007/idiomatic/) |
