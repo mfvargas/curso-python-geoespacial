@@ -174,7 +174,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [Stack Overflow: The Incredible Growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318) |
 | [Communications ACM: Python Is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext) |
 
-### Tutoriales
+### Tutoriales sobre Python
 |                                                                                  |
 | -------------------------------------------------------------------------------- |
 | [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)        |
