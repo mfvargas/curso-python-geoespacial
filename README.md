@@ -200,9 +200,11 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [Free Programming Books - Python](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) |
 
 ### Conferencias y presentaciones
-|                                                                            |
-| -------------------------------------------------------------------------- |
-| [GeoPython 2018](http://2018.geopython.net/)  |
+|                                              |
+| -------------------------------------------- |
+| [GeoPython 2016](http://2016.geopython.net/) |
+| [GeoPython 2017](http://2017.geopython.net/) |
+| [GeoPython 2018](http://2018.geopython.net/) |
 | [GeoPython 2019](http://2019.geopython.net/) |
 
 ### Otros
