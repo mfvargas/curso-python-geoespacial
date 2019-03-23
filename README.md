@@ -181,8 +181,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)            |
 | [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)      |
 | [The Official Python Tutorial](https://docs.python.org/3/tutorial/)                  |
-| [Udemy - Complete Python Bootcamp](https://www.udemy.com/complete-python-bootcamp/)  |
-| [- Materiales en GitHub](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) |
+| [Udemy - Complete Python Bootcamp](https://www.udemy.com/complete-python-bootcamp/) -- [Materiales en GitHub](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|
 
 ### Libros sobre Python
 |                                                                            |
