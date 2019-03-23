@@ -189,6 +189,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 |                                                                            |
 | -------------------------------------------------------------------------- |
 | [Severance, C. 2009: Python for Everybody](https://www.py4e.com/book.php)  |
+| [Free Programming Books - Python](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) |
 
 ### Otros
 |                                                                                         |
