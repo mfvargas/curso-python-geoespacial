@@ -184,3 +184,9 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 |                                                                            |
 | -------------------------------------------------------------------------- |
 | [Severance, C. 2009: Python for Everybody](https://www.py4e.com/book.php)  |
+
+### Otros
+|                                                                                         |
+| --------------------------------------------------------------------------------------- |
+| [Markdown Tutorial](https://www.markdowntutorial.com/)                                  |
+| [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
