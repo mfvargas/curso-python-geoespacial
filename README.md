@@ -179,7 +179,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [Stack Overflow: The Incredible Growth of Python](https://stackoverflow.blog/2017/09/06/incredible-growth-python/?_ga=2.202250515.367846061.1552160385-2089845565.1546395318) |
 | [Communications ACM: Python Is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext) |
 
-### Cursos y tutoriales sobre Python
+### Cursos y tutoriales
 |                                                                                      |
 | ------------------------------------------------------------------------------------ |
 | [Charles Severance - Python for Everybody](https://www.py4e.com/)                                        |
@@ -193,11 +193,17 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [Universidad de Helsinki - Introduction to Python GIS 2018](https://automating-gis-processes.github.io/CSC18/)|
 | [W3Schools - Python Tutorial](https://www.w3schools.com/python/default.asp)            |
 
-### Libros sobre Python
+### Libros
 |                                                                            |
 | -------------------------------------------------------------------------- |
 | [Severance, C. 2009. Python for Everybody: Exploring Data in Python 3](https://www.py4e.com/book.php)  |
 | [Free Programming Books - Python](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python) |
+
+### Conferencias y presentaciones
+|                                                                            |
+| -------------------------------------------------------------------------- |
+| [GeoPython 2018](http://2018.geopython.net/)  |
+| [GeoPython 2019](http://2019.geopython.net/) |
 
 ### Otros
 |                                                                                         |
