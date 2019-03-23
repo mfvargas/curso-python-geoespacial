@@ -27,7 +27,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 - [4.1. En Jupyter Notebooks](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#41-en-jupyter-notebooks)
 
 [5. Sintaxis básica de Python](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#5-sintaxis-b%C3%A1sica-de-python)
-- [5.1. Tipos de datos y variables](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Tipos%20de%20datos%20y%20variables.ipynb)
+- [5.1. Tipos de datos básicos y variables](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Tipos%20de%20datos%20y%20variables.ipynb)
     * [5.1.1. Números](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/N%C3%BAmeros.ipynb)
     * [5.1.2. Hileras](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Hileras.ipynb)    
 - [5.2. Expresiones](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Expresiones.ipynb)    
@@ -149,7 +149,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | Figura 9. Programa ["Hola Mundo"](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Hola%20mundo.ipynb) en Jupyter Notebook. |
 
 ## 5. Sintaxis básica de Python
-- [5.1. Tipos de datos y variables](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Tipos%20de%20datos%20y%20variables.ipynb)
+- [5.1. Tipos de datos básicos y variables](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Tipos%20de%20datos%20y%20variables.ipynb)
 
     * [5.1.1. Números](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/N%C3%BAmeros.ipynb)
     * [5.1.2. Hileras](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Hileras.ipynb)
