@@ -182,9 +182,10 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 ### Cursos y tutoriales
 |                                                                                      |
 | ------------------------------------------------------------------------------------ |
-| [Charles Severance - Python for Everybody](https://www.py4e.com/)                                        |
+| [Charles Severance - Python for Everybody](https://www.py4e.com/)                    |
 | [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)      |
-| [Python.org - The Official Python Tutorial](https://docs.python.org/3/tutorial/)                  |
+| [Python.org - The Official Python Tutorial](https://docs.python.org/3/tutorial/)     |
+| [The Python GDAL/OGR Cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)     |
 | [Udemy - Complete Python Bootcamp](https://www.udemy.com/complete-python-bootcamp/) / [Materiales en GitHub](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|
 | [Udemy - The Python Bible](https://www.udemy.com/the-python-bible/)|
 | [Udemy - Survey of Python for GIS applications](https://www.udemy.com/survey-of-python-for-geospatial-applications/)|
