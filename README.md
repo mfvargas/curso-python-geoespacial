@@ -182,17 +182,16 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 ### Cursos y tutoriales sobre Python
 |                                                                                      |
 | ------------------------------------------------------------------------------------ |
-| [Automating GIS Processes]()                                        |
-| [Python for Everybody](https://www.py4e.com/)                                        |
-| [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)            |
+| [Charles Severance - Python for Everybody](https://www.py4e.com/)                                        |
 | [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)      |
-| [The Official Python Tutorial](https://docs.python.org/3/tutorial/)                  |
+| [Python.org - The Official Python Tutorial](https://docs.python.org/3/tutorial/)                  |
 | [Udemy - Complete Python Bootcamp](https://www.udemy.com/complete-python-bootcamp/) / [Materiales en GitHub](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|
 | [Udemy - The Python Bible](https://www.udemy.com/the-python-bible/)|
 | [Udemy - Survey of Python for GIS applications](https://www.udemy.com/survey-of-python-for-geospatial-applications/)|
 | [Universidad de Helsinki - Geo-Python](https://geo-python.github.io/)|
 | [Universidad de Helsinki - Automating GIS Processes 2018](https://automating-gis-processes.github.io/2018/)|
 | [Universidad de Helsinki - Introduction to Python GIS 2018](https://automating-gis-processes.github.io/CSC18/)|
+| [W3Schools - Python Tutorial](https://www.w3schools.com/python/default.asp)            |
 
 ### Libros sobre Python
 |                                                                            |
