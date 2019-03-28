@@ -37,6 +37,8 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 - [5.6. Funciones](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Funciones.ipynb)   
 - [5.7. Programación Orientada a Objetos](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Programaci%C3%B3n%20Orientada%20a%20Objetos.ipynb)
 
+[6. Módulos geoespaciales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#6-m%C3%B3dulos-geoespaciales)
+
 [7. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#7-recursos-adicionales)
 
 ## 1. Acerca de Python
