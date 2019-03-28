@@ -37,7 +37,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 - [5.6. Funciones](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Funciones.ipynb)   
 - [5.7. Programación Orientada a Objetos](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Programaci%C3%B3n%20Orientada%20a%20Objetos.ipynb)
 
-[6. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#6-recursos-adicionales)
+[7. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#7-recursos-adicionales)
 
 ## 1. Acerca de Python
 ----------------------
@@ -162,7 +162,10 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 - [5.6 Funciones](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Funciones.ipynb)
 - [5.7 Programación Orientada a Objetos](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Programaci%C3%B3n%20Orientada%20a%20Objetos.ipynb)
 
-## 6. Recursos adicionales
+## 6. Módulos geoespaciales
+
+
+## 7. Recursos adicionales
 ### Información general sobre Python
 |                                                      |
 | ---------------------------------------------------- |
