@@ -38,7 +38,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 - [5.7. Programación Orientada a Objetos](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Programaci%C3%B3n%20Orientada%20a%20Objetos.ipynb)
 
 [6. Módulos geoespaciales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#6-m%C3%B3dulos-geoespaciales)
-- [6.1 Folium]()
+- [6.1 Folium](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Folium.ipynb)
 
 [7. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#7-recursos-adicionales)
 
@@ -166,7 +166,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 - [5.7 Programación Orientada a Objetos](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Programaci%C3%B3n%20Orientada%20a%20Objetos.ipynb)
 
 ## 6. Módulos geoespaciales
-- [6.1. GDAL/OGR]()
+- [6.1. Folium](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Folium.ipynb)
 
 ## 7. Recursos adicionales
 ### Información general sobre Python
