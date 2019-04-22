@@ -222,6 +222,11 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [GeoPython 2018](http://2018.geopython.net/) |
 | [GeoPython 2019](http://2019.geopython.net/) |
 
+### Folium
+|                                              |
+| -------------------------------------------- |
+| [Folium documentation](https://python-visualization.github.io/folium/) |
+
 ### Otros
 |                                                                                         |
 | --------------------------------------------------------------------------------------- |
