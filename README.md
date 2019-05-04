@@ -226,6 +226,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 |                                              |
 | -------------------------------------------- |
 | [Folium documentation](https://python-visualization.github.io/folium/) |
+| [Quickstart - Folium documentation](https://python-visualization.github.io/folium/quickstart.html) |
 
 ### Otros
 |                                                                                         |
