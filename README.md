@@ -206,6 +206,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [Universidad de Helsinki - Geo-Python](https://geo-python.github.io/)|
 | [Universidad de Helsinki - Automating GIS Processes 2018](https://automating-gis-processes.github.io/2018/)|
 | [Universidad de Helsinki - Introduction to Python GIS 2018](https://automating-gis-processes.github.io/CSC18/)|
+| [Universidad de Liverpool - A course on Geographic Data Science](http://darribas.org/gds18/)|
 | [W3Schools - Python Tutorial](https://www.w3schools.com/python/default.asp)            |
 
 ### Libros
