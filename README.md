@@ -167,6 +167,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 
 ## 6. Módulos geoespaciales
 - [6.1. Folium](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Folium.ipynb)
+- [6.2. Fiona y Shapely](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Fiona-Shapely.ipynb)
 
 ## 7. Recursos adicionales
 ### Información general sobre Python
