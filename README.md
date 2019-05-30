@@ -230,6 +230,17 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | [Folium documentation](https://python-visualization.github.io/folium/) |
 | [Quickstart - Folium documentation](https://python-visualization.github.io/folium/quickstart.html) |
 
+### Fiona
+|                                              |
+| -------------------------------------------- |
+| [Fiona: Fiona is OGR's neat and nimble API](https://github.com/Toblerity/Fiona) |
+
+### Shapely
+|                                              |
+| -------------------------------------------- |
+| [Shapely: Manipulation and analysis of geometric objects](https://github.com/Toblerity/Shapely) |
+
+
 ### Otros
 |                                                                                         |
 | --------------------------------------------------------------------------------------- |
