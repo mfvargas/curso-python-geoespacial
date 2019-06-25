@@ -39,6 +39,8 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 
 [6. Módulos geoespaciales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#6-m%C3%B3dulos-geoespaciales)
 - [6.1 Folium](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Folium.ipynb)
+- [6.2 Fiona y Shapely](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Fiona-Shapely.ipynb)
+- [6.3 GeoPandas](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/GeoPandas.ipynb)
 
 [7. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#7-recursos-adicionales)
 
