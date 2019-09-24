@@ -247,6 +247,10 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 | -------------------------------------------- |
 | [Shapely: Manipulation and analysis of geometric objects](https://github.com/Toblerity/Shapely) |
 
+### PyQGIS
+|                                              |
+| -------------------------------------------- |
+| [PyQGIS Developer Cookbook](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) |
 
 ### Otros
 |                                                                                         |
