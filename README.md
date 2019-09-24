@@ -176,6 +176,18 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 
 ## 7. PyQGIS
 
+### 7.1. Python y QGIS
+[QGIS](https://qgis.org/) es un sistema de información geográfica de escritorio de código libre y abierto escrito en el lenguaje de programación [C++](https://isocpp.org/). Sin embargo, el lenguaje de Python puede ser usado en QGIS de varias maneras:
+
+- Ejecución de comandos en la consola de Python de QGIS
+- Creación y uso de [complementos](https://plugins.qgis.org/)
+- Ejecución de código en Python al iniciarse QGIS
+- Creación de aplicaciones personalizadas basadas en el [API de QGIS](https://qgis.org/api/)
+
+
+
+
+
 ## 8. Recursos adicionales
 ### Información general sobre Python
 |                                                      |
@@ -251,6 +263,7 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 |                                              |
 | -------------------------------------------- |
 | [PyQGIS Developer Cookbook](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) |
+| [QGIS API Documentation](https://qgis.org/api/) |
 
 ### Otros
 |                                                                                         |
