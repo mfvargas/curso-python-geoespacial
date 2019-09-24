@@ -216,6 +216,7 @@ Adicionalmente, para la interacción con el ambiente de QGIS, se define automát
 #### 7.2.1. Ejemplos de uso de la consola
 En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
 
+
 __**Carga de una capa vectorial**__
 
 Con el método [addVectorLayer](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addVectorLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
@@ -223,6 +224,7 @@ Con el método [addVectorLayer](https://qgis.org/pyqgis/master/gui/QgisInterface
 uri = "C:/geodatos/natural_earth_vector.gpkg/packages/natural_earth_vector.gpkg|layername=ne_10m_admin_0_countries"
 vlayer = iface.addVectorLayer(uri, "países", "ogr")
 ```
+
 
 __**Despliegue de la tabla de atributos**__
 
