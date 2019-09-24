@@ -43,7 +43,9 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 - [6.3. GeoPandas](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/GeoPandas.ipynb)
 - [6.4. Ejemplos de uso de Pandas, GeoPandas y Folium](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Pandas-GeoPandas-Folium.ipynb)
 
-[7. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#7-recursos-adicionales)
+[7. PyQGIS]()
+
+[8. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#7-recursos-adicionales)
 
 ## 1. Acerca de Python
 ----------------------
@@ -172,7 +174,9 @@ Un _notebook_ consiste de una secuencia de celdas que pueden llenarse con códig
 - [6.1. Folium](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Folium.ipynb)
 - [6.2. Fiona y Shapely](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Fiona-Shapely.ipynb)
 
-## 7. Recursos adicionales
+## 7. PyQGIS
+
+## 8. Recursos adicionales
 ### Información general sobre Python
 |                                                      |
 | ---------------------------------------------------- |
