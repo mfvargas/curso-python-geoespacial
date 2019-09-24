@@ -192,7 +192,9 @@ Como referencia y tutorial de PyQGIS, se recomienda el [PyQGIS Developer Cookboo
 
 Otros recursos que se recomienda consultar son:
 
-- [PyQGIS 101: Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
+- [Anita Graser - PyQGIS 101: Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
+- [Victor Olaya - QGIS-Python programming](https://github.com/volaya/qgis-python-course)
+- [OpenSourceOptions - PyQGIS Tutorials](https://opensourceoptions.com/tutorials/)
 
 ## 8. Recursos adicionales
 ### Información general sobre Python
@@ -271,7 +273,9 @@ Otros recursos que se recomienda consultar son:
 | [PyQGIS Developer Cookbook](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) |
 | [QGIS API Documentation](https://qgis.org/api/) |
 | [Welcome to the QGIS Python API documentation project](https://qgis.org/pyqgis/master/) |
-| [PyQGIS 101: Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/) |
+| [Anita Graser - PyQGIS 101: Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/) |
+| [Victor Olaya - QGIS-Python programming](https://github.com/volaya/qgis-python-course) |
+| [OpenSourceOptions - PyQGIS Tutorials](https://opensourceoptions.com/tutorials/)|
 
 ### Otros
 |                                                                                         |
