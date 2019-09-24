@@ -196,6 +196,13 @@ Otros recursos que se recomienda consultar son:
 - [Victor Olaya - QGIS-Python programming](https://github.com/volaya/qgis-python-course)
 - [OpenSourceOptions - PyQGIS Tutorials](https://opensourceoptions.com/tutorials/)
 
+### 7.2. La consola de Python en QGIS
+QGIS provee una consola de Python que puede ser abierta mediante la opción de menú _Plugins - Python Console_.
+
+Para conveniencia del usuario, las siguientes sentencias se ejecutan automáticamente al iniciarse la consola:
+
+Adicionalmente, 
+
 ## 8. Recursos adicionales
 ### Información general sobre Python
 |                                                      |
