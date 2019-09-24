@@ -258,8 +258,23 @@ Para aplicar estilos a una capa vectorial, se utiliza el método [renderer()](ht
 
 Tamaño de los símbolos:
 ```python
-vlayer_points.renderer().symbol().setSize(6)
+vlayer_points.renderer().symbol().setSize(4)
 vlayer_points.triggerRepaint()
+```
+
+
+Color de los símbolos:
+```python
+vlayer_points.renderer().symbol().setColor(QColor("blue"))
+vlayer_points.triggerRepaint()
+```
+
+
+Cambio de símbolo:
+```python
+vlayer_points.renderer().symbol().symbolLayer(0).setShape(QgsSimpleMarkerSymbolLayerBase.Star)
+vlayer_points.triggerRepaint()
+iface.layerTreeView().refreshLayerSymbology(vlayer.id())
 ```
 
 ## 8. Recursos adicionales
