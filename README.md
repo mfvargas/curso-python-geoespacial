@@ -200,7 +200,16 @@ Otros recursos que se recomienda consultar son:
 ### 7.2. La consola de Python en QGIS
 QGIS provee una consola de Python que puede ser abierta mediante la opción de menú _Plugins - Python Console_.
 
+| ![](img/python-console.png) |
+|:---:|
+| Consola de Python en WGIS. |
+
 Para conveniencia del usuario, las siguientes sentencias se ejecutan automáticamente al iniciarse la consola:
+
+```python
+from qgis.core import *
+import qgis.utils
+```
 
 Adicionalmente, 
 
