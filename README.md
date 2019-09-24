@@ -213,6 +213,11 @@ import qgis.utils
 
 Adicionalmente, para la interacción con el ambiente de QGIS, se define automáticamente una variable llamada **iface**, la cual es una instancia de [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface), la cual proporciona acceso al canvas, a los menúes, a las barras de herramientas y a los demás componentes de QGIS.
 
+#### 7.2.1. Ejemplos de uso de la consola
+En los siguientes ejemplos, se utilizan conjuntos de datos de [Natural Earth](https://www.naturalearthdata.com/).
+
+
+
 
 ## 8. Recursos adicionales
 ### Información general sobre Python
