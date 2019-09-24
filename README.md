@@ -45,6 +45,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 
 [7. PyQGIS](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#7-pyqgis)
 - [7.1. Python y QGIS](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#71-python-y-qgis)
+- [7.2. La consola de Python en QGIS](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#72-la-consola-de-python-en-qgis)
 
 [8. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#8-recursos-adicionales)
 
