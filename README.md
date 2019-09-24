@@ -274,7 +274,7 @@ Cambio de símbolo:
 ```python
 vlayer_points.renderer().symbol().symbolLayer(0).setShape(QgsSimpleMarkerSymbolLayerBase.Star)
 vlayer_points.triggerRepaint()
-iface.layerTreeView().refreshLayerSymbology(vlayer.id())
+iface.layerTreeView().refreshLayerSymbology(vlayer_points.id())
 ```
 
 ## 8. Recursos adicionales
