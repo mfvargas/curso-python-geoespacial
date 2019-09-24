@@ -217,6 +217,7 @@ Adicionalmente, para la interacción con el ambiente de QGIS, se define automát
 En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip). Se asumen que el archivo ?? se ubica en el directorio "C:/geodatos".
 
 __**Carga de una capa vectorial**__
+Con el método [addVectorLayer](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addVectorLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
 ```python
 uri = "C:/geodatos/natural_earth_vector.gpkg/packages/natural_earth_vector.gpkg|layername=ne_10m_admin_0_countries"
 iface.addVectorLayer(uri, "países", "ogr")
