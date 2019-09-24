@@ -214,14 +214,13 @@ import qgis.utils
 Adicionalmente, para la interacción con el ambiente de QGIS, se define automáticamente una variable llamada **iface**, la cual es una instancia de [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface), la cual proporciona acceso al canvas, a los menúes, a las barras de herramientas y a los demás componentes de QGIS.
 
 #### 7.2.1. Ejemplos de uso de la consola
-En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip). Se asumen que el archivo ?? se ubica en el directorio "C:\geodatos".
+En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip). Se asumen que el archivo ?? se ubica en el directorio "C:/geodatos".
 
 __**Carga de una capa vectorial**__
-
-
-
-
-
+```python
+uri = "C:/geodatos/natural_earth_vector.gpkg/packages/natural_earth_vector.gpkg|layername=ne_10m_admin_0_countries"
+iface.addVectorLayer(uri, "países", "ogr")
+```
 
 ## 8. Recursos adicionales
 ### Información general sobre Python
