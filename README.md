@@ -44,6 +44,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales 
 - [6.4. Ejemplos de uso de Pandas, GeoPandas y Folium](https://github.com/mfvargas/curso-python-geoespacial/blob/master/nb/Pandas-GeoPandas-Folium.ipynb)
 
 [7. PyQGIS](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#7-pyqgis)
+- [7.1. Python y QGIS](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#71-python-y-qgis)
 
 [8. Recursos adicionales](https://github.com/mfvargas/curso-python-geoespacial/blob/master/README.md#8-recursos-adicionales)
 
