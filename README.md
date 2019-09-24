@@ -277,6 +277,9 @@ vlayer_points.triggerRepaint()
 iface.layerTreeView().refreshLayerSymbology(vlayer_points.id())
 ```
 
+Para más ejemplos sobre el uso de capas vectoriales en PyQGIS, se recomienda leer [https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html).
+
+
 ## 8. Recursos adicionales
 ### Información general sobre Python
 |                                                      |
