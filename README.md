@@ -183,7 +183,7 @@ Se conoce como **PyQGIS** a la implementación de Python en QGIS. [QGIS](https:/
 - Ejecución de comandos en la consola de Python de QGIS
 - Creación y uso de [complementos](https://plugins.qgis.org/)
 - Ejecución de código en Python al iniciarse QGIS
-- Creación de aplicaciones personalizadas basadas en el [API de QGIS](https://qgis.org/api/)
+- Creación de aplicaciones personalizadas basadas en el API de QGIS
 
 Como referencia y tutorial de PyQGIS, se recomienda el [PyQGIS Developer Cookbook](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/). La referencia al API de QGIS está disponible en:
 
