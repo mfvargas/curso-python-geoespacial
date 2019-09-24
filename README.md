@@ -202,7 +202,7 @@ QGIS provee una consola de Python que puede ser abierta mediante la opción de m
 
 | ![](img/python-console.png) |
 |:---:|
-| Consola de Python en WGIS. |
+| Consola de Python en QGIS |
 
 Para conveniencia del usuario, las siguientes sentencias se ejecutan automáticamente al iniciarse la consola:
 
@@ -211,7 +211,8 @@ from qgis.core import *
 import qgis.utils
 ```
 
-Adicionalmente, 
+Adicionalmente, para la interacción con el ambiente de QGIS, se define automáticamente una variable llamada **iface**, la cual es una instancia de [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface), la cual proporciona acceso al canvas, menúes, barras de herramientas y demás componentes de QGIS.
+
 
 ## 8. Recursos adicionales
 ### Información general sobre Python
