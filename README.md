@@ -219,7 +219,7 @@ En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://n
 
 _**Carga de una capa vectorial**_
 
-Con el método [addVectorLayer](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addVectorLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
+Con el método [addVectorLayer()](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addVectorLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
 ```python
 uri = "C:/geodatos/natural_earth_vector.gpkg/packages/natural_earth_vector.gpkg|layername=ne_10m_admin_0_countries"
 vlayer = iface.addVectorLayer(uri, "países", "ogr")
@@ -228,18 +228,27 @@ vlayer = iface.addVectorLayer(uri, "países", "ogr")
 
 _**Despliegue de la tabla de atributos**_
 
-Con el método [showAttributeTable](https://qgis.org/pyqgis/master/gui/QgisInterface.html?highlight=showattributetable#qgis.gui.QgisInterface.showAttributeTable) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
+Con el método [showAttributeTable()](https://qgis.org/pyqgis/master/gui/QgisInterface.html?highlight=showattributetable#qgis.gui.QgisInterface.showAttributeTable) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
 ```python
 iface.showAttributeTable(vlayer)
 ```
 
 
-_**Impresión de los nombres de los campos**_
+_**Impresión de los nombres de los atributos**_
 
-Con el método [fields](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer.fields) de la clase [QgsVectorLayer](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer):
+Con el método [fields()](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer.fields) de la clase [QgsVectorLayer](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer):
 ```python
 for field in vlayer.fields():
     print(field.name())
+```
+
+
+_**Impresión de los valores de un atributo**_
+
+Con el método [getFeatures()](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer.getFeatures) de la clase [QgsVectorLayer](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer):
+```python
+for feature in vlayer.getFeatures():
+    print(feature["ADMIN"])
 ```
 
 ## 8. Recursos adicionales
