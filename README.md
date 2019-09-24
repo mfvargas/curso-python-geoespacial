@@ -216,7 +216,8 @@ Adicionalmente, para la interacción con el ambiente de QGIS, se define automát
 #### 7.2.1. Ejemplos de uso de la consola
 En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip). Se asumen que el archivo ?? se ubica en el directorio "C:\geodatos".
 
-__Carga de una capa vectorial__
+__**Carga de una capa vectorial**__
+
 
 
 
