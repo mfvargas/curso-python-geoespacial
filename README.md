@@ -217,8 +217,7 @@ Adicionalmente, para la interacción con el ambiente de QGIS, se define automát
 En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
 
 
-_**Carga de una capa vectorial**_
-
+##### 7.2.1.1. Carga de una capa vectorial
 Con el método [addVectorLayer()](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addVectorLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
 ```python
 uri = "C:/geodatos/natural_earth_vector.gpkg/packages/natural_earth_vector.gpkg|layername=ne_10m_admin_0_countries"
@@ -226,16 +225,14 @@ vlayer = iface.addVectorLayer(uri, "países", "ogr")
 ```
 
 
-_**Despliegue de la tabla de atributos**_
-
+##### 7.2.1.2. Despliegue de la tabla de atributos
 Con el método [showAttributeTable()](https://qgis.org/pyqgis/master/gui/QgisInterface.html?highlight=showattributetable#qgis.gui.QgisInterface.showAttributeTable) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
 ```python
 iface.showAttributeTable(vlayer)
 ```
 
 
-_**Impresión de los nombres de los atributos**_
-
+##### 7.2.1.3. Impresión de los nombres de los atributos
 Con el método [fields()](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer.fields) de la clase [QgsVectorLayer](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer):
 ```python
 for field in vlayer.fields():
@@ -243,12 +240,26 @@ for field in vlayer.fields():
 ```
 
 
-_**Impresión de los valores de un atributo**_
-
+##### 7.2.1.4. Impresión de los valores de un atributo
 Con el método [getFeatures()](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer.getFeatures) de la clase [QgsVectorLayer](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer):
 ```python
 for feature in vlayer.getFeatures():
     print(feature["ADMIN"])
+```
+
+##### 7.2.1.5. Estilos
+Primero, se carga una capa de puntos:
+```python
+uri = "C:/geodatos/natural_earth_vector.gpkg/packages/natural_earth_vector.gpkg|layername=ne_110m_populated_places_simple"
+vlayer_points = iface.addVectorLayer(uri, "ciudades", "ogr")
+```
+
+Para aplicar estilos a una capa vectorial, se utiliza el método [renderer()](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer.renderer) de la clase [QgsVectorLayer](https://qgis.org/pyqgis/master/core/QgsVectorLayer.html#qgis.core.QgsVectorLayer).
+
+Tamaño de los símbolos:
+```python
+vlayer_points.renderer().symbol().setSize(6)
+vlayer_points.triggerRepaint()
 ```
 
 ## 8. Recursos adicionales
