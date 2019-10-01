@@ -280,13 +280,14 @@ iface.layerTreeView().refreshLayerSymbology(vlayer_points.id())
 Para más ejemplos sobre el uso de capas vectoriales en PyQGIS, se recomienda leer [https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html).
 
 #### 7.2.2. Ejemplos de uso de la consola - datos raster
-En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
+En los siguientes ejemplos, se utiliza la capa raster [Natural Earth I](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/NE1_HR_LC.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
 
 ##### 7.2.2.1. Carga de una capa raster
-Con el método [addVectorLayer()](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addVectorLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
+Con el método [addRasterLayer()](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addRasterLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
 ```python
-uri = "C:/geodatos/natural_earth_vector.gpkg/packages/natural_earth_vector.gpkg|layername=ne_10m_admin_0_countries"
-vlayer = iface.addVectorLayer(uri, "países", "ogr")
+uri = "C:/geodatos/NE1_HR_LC/NE1_HR_LC.tif"
+vlayer = iface.addRasterLayer(uri, "natural earth 1")
+```
 
 ## 8. Recursos adicionales
 ### Información general sobre Python
