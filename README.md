@@ -286,7 +286,25 @@ En los siguientes ejemplos, se utiliza la capa raster [Natural Earth I](https://
 Con el método [addRasterLayer()](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addRasterLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
 ```python
 uri = "C:/geodatos/NE1_HR_LC/NE1_HR_LC.tif"
-vlayer = iface.addRasterLayer(uri, "natural earth 1")
+rlayer = iface.addRasterLayer(uri, "natural earth 1")
+```
+
+##### 7.2.2.2. Información sobre una capa raster
+```python
+# Dimensiones
+rlayer.width(), rlayer.height()
+
+# Extensión
+rlayer.extent()
+
+# Tipo de raster (0 = "GrayOrUndefined" (una banda), 1 = "Palette" (una banda), 2 = "Multiband")
+rlayer.rasterType()
+
+# Cantidad de bandas
+rlayer.bandCount()
+
+# Metadatos
+rlayer.metadata()
 ```
 
 ## 8. Recursos adicionales
