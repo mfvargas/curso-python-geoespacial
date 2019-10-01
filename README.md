@@ -213,7 +213,7 @@ import qgis.utils
 
 Adicionalmente, para la interacción con el ambiente de QGIS, se define automáticamente una variable llamada **iface**, la cual es una instancia de [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface) y proporciona acceso al canvas, a los menúes, a las barras de herramientas y a los demás componentes de QGIS.
 
-#### 7.2.1. Ejemplos de uso de la consola
+#### 7.2.1. Ejemplos de uso de la consola - datos vectoriales
 En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
 
 
@@ -279,6 +279,14 @@ iface.layerTreeView().refreshLayerSymbology(vlayer_points.id())
 
 Para más ejemplos sobre el uso de capas vectoriales en PyQGIS, se recomienda leer [https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html).
 
+#### 7.2.2. Ejemplos de uso de la consola - datos raster
+En los siguientes ejemplos, se utiliza el [GeoPackage de Natural Earth](http://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
+
+##### 7.2.2.1. Carga de una capa raster
+Con el método [addVectorLayer()](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addVectorLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
+```python
+uri = "C:/geodatos/natural_earth_vector.gpkg/packages/natural_earth_vector.gpkg|layername=ne_10m_admin_0_countries"
+vlayer = iface.addVectorLayer(uri, "países", "ogr")
 
 ## 8. Recursos adicionales
 ### Información general sobre Python
