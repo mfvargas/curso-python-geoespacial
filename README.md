@@ -307,6 +307,41 @@ rlayer.bandCount()
 rlayer.renderer().type()
 ```
 
+##### 7.2.2.3. "Renderizado" de una capa raster
+Cuando se carga una capa raster, utiliza un renderizador apropiado para su tipo. Este renderizador puede ser modificado con la interfaz de QGIS o programáticamente.
+
+Para asignar un renderizador, se utiliza el método [setRenderer](https://qgis.org/pyqgis/master/core/QgsRasterLayer.html#qgis.core.QgsRasterLayer.setRenderer) de la clase [QgsRasterLayer](https://qgis.org/pyqgis/master/core/QgsRasterLayer.html#qgis.core.QgsRasterLayer). Hay varios tipos de renderizadores (todos se derivan de [QgsRasterRenderer](https://qgis.org/pyqgis/master/core/QgsRasterRenderer.html#qgis.core.QgsRasterRenderer)):
+
+- [QgsMultiBandColorRenderer](https://qgis.org/pyqgis/master/core/QgsMultiBandColorRenderer.html#qgis.core.QgsMultiBandColorRenderer)
+- [QgsPalettedRasterRenderer](https://qgis.org/pyqgis/master/core/QgsPalettedRasterRenderer.html#qgis.core.QgsPalettedRasterRenderer)
+- [QgsSingleBandColorDataRenderer](https://qgis.org/pyqgis/master/core/QgsSingleBandColorDataRenderer.html#qgis.core.QgsSingleBandColorDataRenderer)
+- [QgsSingleBandGrayRenderer](https://qgis.org/pyqgis/master/core/QgsSingleBandGrayRenderer.html#qgis.core.QgsSingleBandGrayRenderer)
+- [QgsSingleBandPseudoColorRenderer](https://qgis.org/pyqgis/master/core/QgsSingleBandPseudoColorRenderer.html#qgis.core.QgsSingleBandPseudoColorRenderer)
+
+En el siguiente ejemplo, se colorea un raster de una banda con un rango de colores que va desde el verde al amarillo.
+
+Primero, se prepara un objeto [QgsRasterShader](https://qgis.org/pyqgis/master/core/QgsRasterShader.html#qgis.core.QgsRasterShader) y se configura su función **shader**.
+```python
+fcn = QgsColorRampShader()
+fcn.setColorRampType(QgsColorRampShader.Interpolated)
+lst = [ QgsColorRampShader.ColorRampItem(0, QColor(0,255,0)),
+      QgsColorRampShader.ColorRampItem(255, QColor(255,255,0)) ]
+fcn.setColorRampItemList(lst)
+shader = QgsRasterShader()
+shader.setRasterShaderFunction(fcn)
+```
+
+Luego, se asocia el **shader** con la capa raster:
+```python
+renderer = QgsSingleBandPseudoColorRenderer(rlayer.dataProvider(), 1, shader)
+rlayer.setRenderer(renderer)
+```
+
+Por última, se refresca la capa para ver los resultados:
+```python
+rlayer.triggerRepaint()
+```
+
 ##### 7.2.2.3. Consulta de los pixeles de una capa raster
 
 
