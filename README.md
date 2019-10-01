@@ -280,7 +280,7 @@ iface.layerTreeView().refreshLayerSymbology(vlayer_points.id())
 Para más ejemplos sobre el uso de capas vectoriales en PyQGIS, se recomienda leer [https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html).
 
 #### 7.2.2. Ejemplos de uso de la consola - datos raster
-En los siguientes ejemplos, se utiliza la capa raster [Natural Earth I](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/NE1_HR_LC.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
+En los siguientes ejemplos, se utiliza la capa raster de [temperatura promedio de WorldClim 1.4](http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/grid/cur/tmean_5m_esri.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
 
 ##### 7.2.2.1. Carga de una capa raster
 Con el método [addRasterLayer()](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addRasterLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
@@ -289,7 +289,7 @@ uri = "C:/geodatos/NE1_HR_LC/NE1_HR_LC.tif"
 rlayer = iface.addRasterLayer(uri, "natural earth 1")
 ```
 
-##### 7.2.2.2. Información sobre una capa raster
+##### 7.2.2.2. Información general sobre una capa raster
 ```python
 # Dimensiones
 rlayer.width(), rlayer.height()
@@ -303,9 +303,12 @@ rlayer.rasterType()
 # Cantidad de bandas
 rlayer.bandCount()
 
-# Metadatos
-rlayer.metadata()
+# "Renderizador" (Renderer)
+rlayer.renderer().type()
 ```
+
+##### 7.2.2.3. Consulta de los pixeles de una capa raster
+
 
 ## 8. Recursos adicionales
 ### Información general sobre Python
