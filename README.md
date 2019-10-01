@@ -280,7 +280,7 @@ iface.layerTreeView().refreshLayerSymbology(vlayer_points.id())
 Para más ejemplos sobre el uso de capas vectoriales en PyQGIS, se recomienda leer [https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/vector.html).
 
 #### 7.2.2. Ejemplos de uso de la consola - datos raster
-En los siguientes ejemplos, se utilizan las capas raster de [temperatura promedio de WorldClim 1.4](http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/grid/cur/tmean_10m_bil.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
+En los siguientes ejemplos, se utilizan las capas raster de [temperatura promedio de WorldClim 1.4](http://biogeo.ucdavis.edu/data/climate/worldclim/1_4/grid/cur/tmean_2-5m_bil.zip). Se asume que se ubica en el directorio "C:/geodatos". Si se utiliza otro directorio, el código de los ejemplos debe modificarse con la ruta apropiada.
 
 ##### 7.2.2.1. Carga de una capa raster
 Con el método [addRasterLayer()](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface.addRasterLayer) de la clase [QgisInterface](https://qgis.org/pyqgis/master/gui/QgisInterface.html#qgis.gui.QgisInterface):
